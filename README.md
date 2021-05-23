@@ -1,2 +1,2 @@
 # pro2
-This is first reposiory
+This is first repository
